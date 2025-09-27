@@ -1,16 +1,16 @@
 {
-  "name": "Vistaar Darpan",
-  "short_name": "Vistaar Darpan",
-  "start_url": "https://vistaardarpan.blogspot.com/",
+  "name": "North Hindi News",
+  "short_name": "North Hindi News",
+  "start_url": "https://northhindinews.blogspot.com/",
   "display": "standalone",
   "background_color": "#FFFFFF",
   "theme_color": "#E42628",
   "orientation": "portrait",
-  "scope": "https://vistaaardarpan.blogspot.com/",
-  "id": "VistaarDarpan",
+  "scope": "https://northhindinews.blogspot.com/",
+  "id": "NorthHindiNews",
   "lang": "hi",
   "dir": "ltr",
-  "description": "Vistaar Darpan! No1 Hindi e-News Portal.",
+  "description": "North Hindi News! No1 Hindi e-News Portal.",
   "categories": [
     "news"
   ],
@@ -725,28 +725,28 @@
     {
       "name": "About Us",
 	  "short_name": "About Us",
-      "url": "https://vistaardarpan.blogspot.com/p/about-us.html",
+      "url": "https://northhindinews.blogspot.com/p/about-us.html",
       "description": "About Us",
 	  "icons": [{ "src": "https://raw.githubusercontent.com/MKSREUPIN/NHN/refs/heads/main/AppImages/android/android-launchericon-192-192.png", "sizes": "192x192" }]
     },
     {
       "name": "Contact Us",
 	  "short_name": "Contact Us",
-      "url": "https://vistaardarpan.blogspot.com/p/contact-us.html",
+      "url": "https://northhindinews.blogspot.com/p/contact-us.html",
       "description": "Contact Us",
 	  "icons": [{ "src": "https://raw.githubusercontent.com/MKSREUPIN/NHN/refs/heads/main/AppImages/android/android-launchericon-192-192.png", "sizes": "192x192" }]
     },
     {
       "name": "Policy Privacy",
 	  "short_name": "Policy Privacy",
-      "url": "https://vistaardarpan.blogspot.com/p/policy-privacy.html",
+      "url": "https://northhindinews.blogspot.com/p/policy-privacy.html",
       "description": "Policy Privacy",
 	  "icons": [{ "src": "https://raw.githubusercontent.com/MKSREUPIN/NHN/refs/heads/main/AppImages/android/android-launchericon-192-192.png", "sizes": "192x192" }]
     },
     {
       "name": "Terms Conditions",
 	  "short_name": "PTerms Conditions",
-      "url": "https://vistaardarpan.blogspot.com/p/terms-conditions.html",
+      "url": "https://northhindinews.blogspot.com/p/terms-conditions.html",
       "description": "Terms Conditions",
 	  "icons": [{ "src": "https://raw.githubusercontent.com/MKSREUPIN/NHN/refs/heads/main/AppImages/android/android-launchericon-192-192.png", "sizes": "192x192" }]
     }
