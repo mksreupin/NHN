@@ -1,1 +1,1 @@
-importScripts("https://cdn.pushalert.co/sw-84790.js");
+importScripts("https://raw.githubusercontent.com/MKSREUPIN/NHN/refs/heads/main/pushalert/sw-84790.js");
