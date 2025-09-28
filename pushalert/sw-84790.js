@@ -1,0 +1,11 @@
+var comm_url = "https://request.pushalert.co/";
+var default_title = "";
+var default_message = "";
+var default_icon = "https://cdn.pushalert.co/img/pushalert-square-icon.png";
+var default_url = "https://northhindinews.blogspot.com";
+var last_updated = "0";
+var client_id = 83585;
+var domain_id = 1;
+var pa_subdomain = "https://northhindinews349.pushalert.co";
+var appPublicKey = 'BF2QxNxAIb094CnNPq6i+B45jOYhpCE43ZME97d0aHjU2z6OxRfpPAREn5spqGHnUZqi2ccmuaYzv0ycWPvvzlU=';
+importScripts("https://cdn.pushalert.co/sw-external-payload.js?t="+last_updated);
