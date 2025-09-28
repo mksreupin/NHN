@@ -1,1 +1,0 @@
-importScripts("https://raw.githubusercontent.com/MKSREUPIN/NHN/refs/heads/main/pushalert/sw-84790.js");
