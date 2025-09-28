@@ -19,7 +19,7 @@ self.addEventListener('install', (event) => {
           // Inject the manifest link dynamically before the closing </head> tag
           const modifiedResponse = text.replace(
             '</head>',
-            '<link rel="manifest" href="/manifest.json"></head>'
+            '<link rel="manifest" href="/https://raw.githubusercontent.com/mksreupin/NHN/refs/heads/main/manifest.json"></head>'
           );
   
           return new Response(modifiedResponse, {
