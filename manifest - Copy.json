@@ -1,7 +1,7 @@
 {
   "name": "North Hindi News",
   "short_name": "North Hindi News",
-  "start_url": "https://northhindinews.blogspot.com",
+  "start_url": "https://northhindinews.blogspot.com/",
   "display": "standalone",
   "background_color": "#FFFFFF",
   "theme_color": "#E42628",
@@ -12,14 +12,7 @@
   "dir": "ltr",
   "description": "North Hindi News! No1 Hindi e-News Portal.",
   "categories": [
-    "business",
-    "education",
-    "entertainment",
-    "government",
-    "health",
-    "lifestyle",
-    "news",
-    "politics"
+    "news"
   ],
   "icons": [
     {
@@ -725,11 +718,7 @@
     }
   ],
   "display_override": [
-    "standalone",
-    "browser",
-    "fullscreen",
-    "minimal-ui",
-    "window-controls-overlay"
+    "standalone"
   ],
   "iarc_rating_id": "news",
   "shortcuts": [
